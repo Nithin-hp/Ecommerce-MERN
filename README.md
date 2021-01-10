@@ -1,7 +1,7 @@
 # Ecommerce-MERN
-Shopping cart built with MERN &amp; Redux. [Live Demo-](https://ecommerce-mern-nithin.herokuapp.com/)
+Shopping cart built with MERN &amp; Redux. [Live Demo](https://ecommerce-mern-nithin.herokuapp.com/)
 # Features
-•	Full featured shopping cart
+•	Full featured shopping cart                                                                                                                                              
 •	Product reviews and ratings
 •	Top products carousel
 •	Product pagination
@@ -16,3 +16,18 @@ Shopping cart built with MERN &amp; Redux. [Live Demo-](https://ecommerce-mern-n
 •	Database seeder (products & users
 
 
+ * Features
+    * Full featured shopping cart;
+    * Product reviews and ratings;
+    * Top products carouse
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
